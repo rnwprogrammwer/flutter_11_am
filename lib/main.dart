@@ -14,7 +14,7 @@ void main() {
             TextSpan(
               children: [
                 TextSpan(
-                  text: "😀 Hello\n",
+                  text: "😀 😀 😀 😀 😀 Hello\n",
                   style: TextStyle(color: Colors.black,fontSize: 50),
                 ),
                 TextSpan(
